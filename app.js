@@ -1,8 +1,7 @@
-// Variables for string
+// Variables for type  string
 var FruitsName = "Apple";
-// console.log(FruitsName);
 var AnimalName = "Bear";
-// console.log(AnimalName);
 var VegetableName = "Pumpkin";
-// console.log(VegetableName);
 var BrandName = "Toyota";
+var DrinkName = "RedBull";
+// Variables for type Number
